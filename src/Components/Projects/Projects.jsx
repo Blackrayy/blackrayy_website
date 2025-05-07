@@ -1,9 +1,8 @@
 import React from 'react';
 import './Projects.css';
-import img4 from '../Images/img4.jpg';
-import img5 from '../Images/img5.jpg';
-import img6 from '../Images/img6.jpg';
-
+import img4 from '../../../public/Images/img4.jpg';
+import img5 from '../../../public/Images/img5.jpg';
+import img6 from '../../../public/Images/img6.jpg';
 const projects = [
   {
     title: "E-commerce Platform Revamp",

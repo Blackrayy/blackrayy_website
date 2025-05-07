@@ -1,6 +1,6 @@
 import React from 'react';
-import './Services.css';
-import Navbar from '../Navbar/Navbar';
+import '../Services/Services.css'; // Link the CSS file
+import Navbar from '../../Components/Navbar/Navbar';
 
 const Services = () => {
   return (

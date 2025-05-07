@@ -2,8 +2,8 @@
 // import reactLogo from './assets/react.svg'
 // import viteLogo from '/vite.svg'
 import { Routes, Route } from 'react-router-dom';
-import HomePage from './Components/Homepage/HomePage';
-import Services from './Components/Services/Services';
+import HomePage from './Pages/Homepage/Homepage';
+import Services from './Pages/Services/Services';
 // import './App.css'
 
 function App() {

@@ -1,6 +1,6 @@
 import React from "react";
 import "./PartnerSection.css";
-import img1 from "../Images/img1.jpg";  
+import img1 from "../../../public/Images/img1.jpg";  
 // import Leftdivider from "../Divider/Leftdivider";
 const PartnerSection = () => {
   const logos = [
