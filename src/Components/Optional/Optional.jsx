@@ -1,5 +1,5 @@
 import React from 'react';
-import './optional.css'; // Link the CSS file
+import './Optional.css'; // Link the CSS file
 
 const optional = () => {
   return (
