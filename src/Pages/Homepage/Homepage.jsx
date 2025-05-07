@@ -17,13 +17,11 @@ const HomePage = () => {
     <>
     <Navbar/>
     <HeroSection/>
-   
      <PartnerSection/>
      <WhyChoose/>
     <ServiceSection/>
      <Projects/>
     <ContactSection/>
-   
     <OurProcess/>
     <Footer/> 
     </>
