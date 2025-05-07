@@ -1,5 +1,5 @@
 import React from 'react';
-import './HomePage.css'; // Link the CSS file
+// import './HomePage.css'; // Link the CSS file
 import Navbar from '../Navbar/Navbar';
 import HeroSection from '../HeroSection/HeroSection';
 import PartnersSection from '../PartnerSection/PartnerSection';
