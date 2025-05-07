@@ -1,9 +1,8 @@
 import React from "react";
 import "./HeroSection.css";
-import img1 from "../../../public/Images/img1.jpg";
-import img2 from "../../../public/Images/img2.jpg";
-import img3 from "../../../public/Images/img3.jpg";
-
+import img1 from "../../assets/Images/img1.jpg";
+import img2 from "../../assets/Images/img2.jpg";
+import img3 from "../../assets/Images/img3.jpg";
 // import Rightdivider from "../Divider/Rightdivider";
 const HeroSection = () => {
   return (

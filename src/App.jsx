@@ -3,7 +3,7 @@
 // import viteLogo from '/vite.svg'
 import { Routes, Route } from 'react-router-dom';
 import HomePage from './Pages/Homepage/Homepage';
-// import Services from './Pages/Services/Services';
+import Services from './Pages/Services/Services';
 // import './App.css'
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
   return (
     <Routes>
     <Route path="/" element={<HomePage />} />
-    {/* <Route path="/services" element={<Services />} /> */}
+    <Route path="/services" element={<Services />} />
     {/* <Route path="/contact" element={<Contact />} /> */}
   </Routes>
   )
