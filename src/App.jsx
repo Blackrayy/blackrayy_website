@@ -10,6 +10,7 @@ function App() {
   // const [count, setCount] = useState(0)
 
   return (
+    // <HomePage/>
     <Routes>
     <Route path="/" element={<HomePage />} />
     <Route path="/services" element={<Services />} />
