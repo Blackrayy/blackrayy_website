@@ -7,7 +7,7 @@ const ContactSection = () => {
       <div className="contact-content">
         <div className="contact-text">
           <h2>Get in Touch with Us</h2>
-          <p>Contact blackRayy in New Delhi for all your web and app development needs.</p>
+          <p>Contact smartRiverr in New Delhi for all your web and app development needs.</p>
         </div>
         <form className="contact-form">
           <div className="form-row">

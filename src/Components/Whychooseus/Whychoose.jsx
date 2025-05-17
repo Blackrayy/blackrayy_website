@@ -23,7 +23,7 @@ const Whychoose = () => {
   return (
     <section className="whychoose-section">
       <div className="whychoose-container">
-        <h2 className="section-title">Why Choose BlackRayy?</h2>
+        <h2 className="section-title">Why choose smartRiverr?</h2>
         <p className="section-description">
           Discover the core advantages that make us stand out from the rest.
         </p>

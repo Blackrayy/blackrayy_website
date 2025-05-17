@@ -2,7 +2,7 @@
     background-color: #f8f8f8;
     padding: 0px 0px;
     font-family: 'Outfit', sans-serif;
-    color: #111;
+    color: #00BCD4;
     text-align: center;
     /* border: 2px solid #d80000; */
 /* height: 80vh; */
@@ -18,7 +18,9 @@
     font-size: 36px;
     font-weight: 700;
     margin-bottom: 16px;
+    /* color: #00BCD4; */
   }
+ 
   
   .section-description {
     font-size: 18px;

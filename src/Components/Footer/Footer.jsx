@@ -8,7 +8,7 @@ const Footer = () => {
     <footer className="footer-section">
       <div className="footer-content">
         <div className="footer-brand">
-          <h3>blackRayy</h3>
+          <h3>smartRiverr</h3>
           <p>Building sleek and powerful digital experiences from New Delhi.</p>
         </div>
 
@@ -34,7 +34,7 @@ const Footer = () => {
       </div>
 
       <div className="footer-bottom">
-        <p>&copy; {new Date().getFullYear()} blackRayy. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} smartRiverr. All rights reserved.</p>
       </div>
     </footer>
   );
